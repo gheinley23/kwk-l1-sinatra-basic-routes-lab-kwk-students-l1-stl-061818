@@ -11,6 +11,6 @@ get '/name'do
 end
 
 get '/hometown'do
-  "I was born in Houston, Texas"
+  "I was born in  Texas"
 
 end
