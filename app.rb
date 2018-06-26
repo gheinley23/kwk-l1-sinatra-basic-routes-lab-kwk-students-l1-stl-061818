@@ -14,6 +14,7 @@ get '/hometown'do
   "I was born in Houston, Texas"
 end
 
-
+get '/song'do
+  "My fav song right now is "
 
 end
