@@ -15,6 +15,7 @@ get '/hometown'do
 end
 
 get '/song'do
-  "My fav song right now is "
+  "My fav song right now is Big God!"
+end
 
 end
