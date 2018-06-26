@@ -3,10 +3,14 @@ require 'sinatra'
 class App < Sinatra::Base
   
   get '/'do
-    "I love Bok Choy"
+    "Hello, World!"
 end
 
-get '/nutritious'do
-"lots of fiber"
+get '/name'do
+"My name is Evie!"
+end
+
+get '/hometown'do
+  "I was born in Houston, Texas"
 
 end
